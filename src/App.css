@@ -1,0 +1,40 @@
+body {
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Cool tab style */
+.nav-tab {
+  color: #ccc;
+  transition: all 0.3s ease;
+  background-color: transparent;
+}
+
+.nav-tab:hover {
+  color: #322f30;
+  background-color: rgba(235, 235, 240, 0.763);
+  transform: scale(1.05);
+}
+
+/* Active tab styling */
+.active-tab {
+  background: linear-gradient(90deg, #ff0000, #312e2f);
+  color: #000;
+  font-weight: bold;
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
